@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CubeCalculator</string>
+    <string name="input_width">Input Width</string>
+    <string name="input_length">Input Length</string>
+    <string name="input_height">Input Height</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="opt_result">Cube Volume Result</string>
+    <string name="formula">Formula = Length x Width x Height</string>
+</resources>
